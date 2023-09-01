@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Northwestern Medicine",
+		"Project": "Pace Systems",
+		"Address": "123 Street",
+		"City": "Grayson",
+		"State": "GA",
+		"PostalCode": "80012",
+		"Country": "United States",
+		"BackgroundImage": "https://raw.githubusercontent.com/tlssoftware/raw-material/master/maui-kit/articles/article_01.jpg"
+	},
+	{
+		"Title": "Lake Point Towers",
+		"Project": "LMC Construction Inc",
+		"Address": "345 Other Street Rd",
+		"City": "Colorado Springs",
+		"State": "CO",
+		"PostalCode": "80199",
+		"Country": "United States",
+		"BackgroundImage": "https://raw.githubusercontent.com/tlssoftware/raw-material/master/maui-kit/articles/article_02.jpg"
+	}
+]
